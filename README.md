@@ -16,8 +16,8 @@ If enabled, the system also creates a fulfillment in Shopify via its API.
 ## Setup Instructions
 1. **Clone the repository:**  
 ```
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/noriffj98/order-fulfillment-api.git
+cd order-fulfillment-api
 ```
 
 2. **Create and activate a virtual environment:**
